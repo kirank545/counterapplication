@@ -29,3 +29,5 @@ tune2fs -O ^uninit_bg /dev/nvme1n1
 
 /dev/sda1
 /dev/xvda
+
+making some changes in the file of development
